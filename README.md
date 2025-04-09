@@ -1,1 +1,2 @@
 # Irian1
+I’m building a doodle‑to‑image generator: a custom diffusion pipeline (ComfyUI + Stable Cascade/SDXL) that turns rough sketches into polished illustrations. Right now I’m still in the model‑training phase— refining LoRA weights, testing samplers, and cleaning up color artifacts. Once the core model reaches stable quality, the next milestone is a lightweight front‑end so anyone can drag‑and‑drop a sketch, tweak a few sliders, and watch it come to life in the browser!
